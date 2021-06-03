@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bar code based Leave Management system](https://github.com/AravindhIppili/Bar-code-Scanner)
 
-- 👨‍💻 All of my projects are available at [github.com/AravindhIppili](github.com/AravindhIppili)
+- 👨‍💻 All of my projects are available at [https://github.com/AravindhIppili](https://github.com/AravindhIppili)
 
 - 💬 Ask me about **Flutter**
 
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindhippili&show_icons=true&locale=en&layout=compact" alt="aravindhippili" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindhippili&show_icons=true&locale=en" alt="aravindhippili" /></p>
-
-

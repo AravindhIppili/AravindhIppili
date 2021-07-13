@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aravindh Ippili</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindhippili&label=Profile%20views&color=0e75b6&style=flat" alt="aravindhippili" /> </p>
+
 - 🔭 I’m currently working on [Bar code based Leave Management system](https://github.com/AravindhIppili/Bar-code-Scanner)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AravindhIppili](https://github.com/AravindhIppili)
